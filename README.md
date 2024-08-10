@@ -1,4 +1,4 @@
-# Leader Election
+# Zookeeper Funny Stuff 🤣
 
 ## Using Zookeeper to build and learn about Distributed System
 
