@@ -1,0 +1,10 @@
+/.idea/
+
+# Ignore all target folers
+/target/
+
+# Ignore all build folders
+/build/
+
+*.iml
+*.idea
